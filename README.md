@@ -14,3 +14,5 @@ Langkah Percobaan:
 -	
 Hasil Percobaan
 Pada percobaan untuk simulasi pemodelan fisika yang saya buat pada Microsoft Excell berhasil, animasi untuk pemodelan fisika berjalan sesuai dengan konsep Gerak Jatuh Bebas, dimana arah bola jatug bebas searah dengan percepatan gravitasi bumi, maka besar percepatan benda sama dengan percepatan gravitasi bumi dan lama dari bola di udara hanya di pengaruhi oleh ketinggian h dan percepatan gravitasi. Dan perlu kita ingat Selama benda jatuh hambatan udara diabaikan, maka percepatannya konstan (tetap) dan besarnya sama dengan percepatan gravitasi bumi. Selain itu, waktu yang dibutuhkan benda saat jatuh tidak tergantung massanya, namun tergantung dari ketinggiannya. Gerak Jatuh Bebas ini juga termasuk Gerak Lurus Berubah Beraturan dipercepat dengan kecepatan awal Vo = nol dan percepatan sebesar percepatan gravitasi (g).
+
+https://youtu.be/m4w_s3HTi00 (Link Youtube)
